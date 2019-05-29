@@ -11,7 +11,7 @@ refer from: http://blog.sciencenet.cn/home.php?mod=space&uid=330732&do=blog&id=3
 一般来说，这样的过程要循环往复多次。
 只有这样做，才可以在数值模拟中不至于Garbage in, garbage out。”
 ```
-
+ 
 钱伟长先生在指导我校我所的科研工作过程中，也反复强调了这一“应用数学过程”。
 有鉴于此：
 
