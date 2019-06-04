@@ -3,7 +3,7 @@
 
 ### indexes of blogs 
 - [1] [Some Machine Learning Algorithms studied](ML_algos)
-- [2] [Some abstracts from third part authors](rich_snippets)
+- [2] [Some abstracts from third part authors](rich_snippets/index.md)
 - [3] [Some marked git resources](stars)
 - [4] [Personal notes with experiences](experiences)
 - [5] [Reviews about some Research Directions](reviews)
